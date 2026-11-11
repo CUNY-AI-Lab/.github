@@ -21,3 +21,11 @@ CAIL is supported by the [CUNY Office of Academic Affairs](https://www.cuny.edu/
 Interested in participating in the CUNY AI Lab initiative? We welcome collaboration from faculty, researchers, and students across CUNY. While the Lab is in its pilot phase, access is open to everyone at the Graduate Center and to selected faculty and staff from other campuses; students elsewhere at CUNY can only join if part of a class pilot or project.
 
 [Contact Us](https://ailab.gc.cuny.edu/contact/) | [Explore Our Tools](https://ailab.gc.cuny.edu/tools/)
+
+## Licensing
+
+Except where a repository says otherwise, CAIL's teaching materials, slides, guides, and website content are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), CAIL's web applications and services under the GNU AGPL v3.0 or later, and software people install on their own devices under the GNU GPL v3.0 or later. Each repository's `LICENSE` file governs it. See CAIL's [licensing page](https://ailab.gc.cuny.edu/license/).
+
+## Licensing
+
+Except where a repository says otherwise, CAIL's teaching materials, slides, guides, and website content are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), CAIL's web applications and services under the GNU AGPL v3.0 or later, and software people install on their own devices under the GNU GPL v3.0 or later. Each repository's `LICENSE` file governs it. See CAIL's [licensing page](https://ailab.gc.cuny.edu/license/).
